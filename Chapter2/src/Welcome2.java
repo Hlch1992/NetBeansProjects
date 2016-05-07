@@ -4,14 +4,17 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Hlch1
- */
-public class Welcome2 {
-    public static void main (String[] args) 
+
+import org.apache.log4j.Logger;
+
+public class Welcome2
+{
+
+    private final static org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(Welcome2.class);
+
+    public static void main(String[] args)
     {
-        System.out.print("Welcome to ");
-        System.out.println("Java Programming!");
+        log.info("Welcome to ");
+        log.info("Java Programming!");
     }
 }
