@@ -9,7 +9,7 @@ package chapter9;
  *
  * @author Hlch1
  */
-public class Chapterre9
+public class Chapter9
 {
 
     /**
