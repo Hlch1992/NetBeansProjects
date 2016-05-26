@@ -9,7 +9,6 @@ package chapter8;
  *
  * @author Hlch1
  */
-import com.deitel.javafp.ch08.Time1;
 
 public class Time1PackageTest
 {

@@ -10,7 +10,6 @@ package chapter8;
  * @author Hlch1
  */
 //import org.apache.log4j.Logger;
-package com.deitel.javafp.ch08;
 
 public class Time1
 {
