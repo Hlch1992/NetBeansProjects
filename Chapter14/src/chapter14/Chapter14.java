@@ -29,7 +29,7 @@ public class Chapter14
 //        new StringBuilderConstructors();
 //        new StringBuilderCapLen();
 //        new StringBuilderChars();
-//        new StringBuilderAppend();
+        new StringBuilderAppend();
 //        new StringBuilderInsertDelete();
 //        new StaticCharMethods();
 //        new StaticCharMethods2();
@@ -37,7 +37,7 @@ public class Chapter14
 //        new TokenTest();
 //        new Validate();
 //        new RegexSubstitution();
-        new RegexMatches();
+//        new RegexMatches();
     }
     
 }
