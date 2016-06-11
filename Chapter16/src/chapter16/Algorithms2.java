@@ -39,6 +39,10 @@ public class Algorithms2
             System.out.printf("%s ", s);
         
         int frequency = Collections.frequency(list2, "red");
-        System.out.printf("%")
+        System.out.printf("%nFrequency of red in list2: %d%n", frequency);
+        
+        boolean disjoint = Collections.disjoint(list1, list2);
+        System.out.printf("list1 and list2 %s elements in common%n",
+                (disjoint ? "do not have" : "have"));
     }
 }
