@@ -16,16 +16,17 @@ public class Chapter15
 
     /**
      * @param args the command line arguments
+     * @throws java.io.IOException
      */
     public static void main(String[] args) throws IOException
     {
-//        new FileAndDirectoryInfo();
+        new FileAndDirectoryInfo();
 //        new CreateTextFile();
 //        new ReadTextFile();
 //        new CreditInquiry();
 //        new CreateSequentialFile();
 //        new ReadSquentialFile();
-        new JFileChooserTest();
+//        new JFileChooserTest();
     }
     
 }
