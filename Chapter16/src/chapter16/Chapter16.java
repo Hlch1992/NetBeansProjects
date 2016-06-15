@@ -26,7 +26,12 @@ public class Chapter16
 //        new DeckOfCards().DeckOfCardsTest();
 //        new Algorithms1();
 //        new BinarySearchTest();
-        new Algorithms2();
-        
+//        new Algorithms2();
+//        new StackTest();
+//        new PriorityQueueTest();
+//        new SetTest();
+//        new SortedSetTest();
+//        new WordTypeCount();
+        new PropertiesTest();
     }    
 }
